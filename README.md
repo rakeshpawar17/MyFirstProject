@@ -1,2 +1,4 @@
 # MyFirstProject
-This is my first repositart
+This is my first repositary
+<br>
+Author:Pawar Rakesh
